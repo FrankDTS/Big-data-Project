@@ -9,4 +9,4 @@
 
  * Transform data to database format by first grouping 16 records together.
   
-  ![](/images/Screen Shot 2021-07-08 at 8.40.53 PM.png)
+  ![](/images/1.png)
