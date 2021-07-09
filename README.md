@@ -10,7 +10,7 @@
  * First seperate data to three part, then deal with 1/3 part first.
  * Transform data to database format by first grouping 13 records together.
   
-  ![](/images/1.png)
+  ![](/images/1.pg)
 
  * based on [Kevin Jamieson's BeerMapper](https://homes.cs.washington.edu/~jamieson/BeerMapper.html), group 88 categories beer to 17 beer categories.
  * Group by profile name and grab overall scores’ min and max data which fulfill our conditions to make recommendation System.
